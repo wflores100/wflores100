@@ -15,19 +15,19 @@ switch (dia) {
     console.log('Miercoles');
     break;
 
-   case 3:
+   case 4:
     console.log('Jueves');
     break;
 
-   case 3:
+   case 5:
     console.log('Viernes');
     break;
 
-   case 3:
+   case 6:
     console.log('Sabado');
     break;
 
-   case 3:
+   case 7:
     console.log('Domingo');
     break;
   // Completa los casos restantes
